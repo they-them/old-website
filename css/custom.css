@@ -2,9 +2,14 @@ body {
     background-color:#121F1D;
 }
 
-h4, p, a {
+h4 {
+    font-family: 'Libre Baskerville', serif;
+}
+
+p, a {
     font-family: 'Source Sans Pro', sans-serif;
 }
+
 
 h4, a {
     color: #55D464;
